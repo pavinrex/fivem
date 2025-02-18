@@ -14,7 +14,7 @@
     "@fontsource/montserrat": "^4.5.0",
     "@fontsource/rubik": "^4.5.0",
     "@fontsource/source-code-pro": "^4.5.0",
-    "@octokit/rest": "^18.3.0",
+    "@octokit/rest": "^21.1.1",
     "@sentry/node": "^6.2.0",
     "@sentry/react": "^6.2.0",
     "@sentry/tracing": "^6.2.0",
